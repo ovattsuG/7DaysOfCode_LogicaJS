@@ -6,5 +6,8 @@ Melhorar as habilidades em lógica de programação fazendo desafios diários ut
 > JavaScript
 
 ### Desafios
-*
+* Operações Booleanas
+* Variáveis
+* Fluxo De Decisão
+* 
 
