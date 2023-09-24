@@ -3,7 +3,7 @@ function getRandomArbitrary(min, max) {
 }
 let i = 0;
 while (i <= 1) {
-    const perguntar = prompt("Tente adivinhar o numero do sortei em duas tentativas, qual valor você deseja chutar ?");
+    const perguntar = prompt("Tente adivinhar o numero de 0 a 10 do sortei em duas tentativas, qual valor você deseja chutar ?");
     if (perguntar == getRandomArbitrary) {
         console.log("Você adivinhou o numero sorteado !!!");
         i = i + 2;
