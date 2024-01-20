@@ -9,5 +9,8 @@ Melhorar as habilidades em lógica de programação fazendo desafios diários ut
 * Operações Booleanas
 * Variáveis
 * Fluxo De Decisão
-* 
+* Loops e Randomização
+* Arrays
+* Remoção De Arrays
+* Funções
 
